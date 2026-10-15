@@ -1,0 +1,28 @@
+# ─── ビルド成果物
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.exp
+*.log
+*.tlog
+*.idb
+
+# ─── Visual Studio のユーザー設定・キャッシュ
+.vs/
+*.user
+*.suo
+*.aps
+*.VC.db
+*.VC.opendb
+
+# ─── vcpkg
+vcpkg_installed/
