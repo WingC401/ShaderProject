@@ -458,7 +458,7 @@ split-sum 近似で間接光を計算します。
 1. リポジトリをクローン
 
    ```
-   git clone https://github.com/keter401/InauguralProject.git
+   git clone https://github.com/WingC401/ShaderProject.git
    ```
 
    ※ モデル・テクスチャ・HDR 環境マップは `Assets/` に同梱済みのため、別途ダウンロードは不要です。
